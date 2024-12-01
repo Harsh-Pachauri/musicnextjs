@@ -1,0 +1,125 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "Start your musical journey with our beginner's piano course.",
+        "price": 89.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/courses/piano.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Advanced Drumming",
+        "slug": "advanced-drumming",
+        "description": "Take your drumming skills to the next level with this advanced course.",
+        "price": 120.00,
+        "instructor": "Mike Johnson",
+        "isFeatured": true,
+        "image": "/courses/drums.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Violin Basics",
+        "slug": "violin-basics",
+        "description": "Learn how to play the violin with our beginner-friendly course.",
+        "price": 95.50,
+        "instructor": "Emily Davis",
+        "isFeatured": false,
+        "image": "/courses/violin.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Saxophone Essentials",
+        "slug": "saxophone-essentials",
+        "description": "Get started with saxophone playing techniques and styles.",
+        "price": 85.00,
+        "instructor": "Chris Lee",
+        "isFeatured": true,
+        "image": "/courses/saxophone.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Music Theory 101",
+        "slug": "music-theory-101",
+        "description": "Understand the fundamentals of music theory in this introductory course.",
+        "price": 70.00,
+        "instructor": "Sara White",
+        "isFeatured": false,
+        "image": "/courses/music-theory.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Flute for Beginners",
+        "slug": "flute-for-beginners",
+        "description": "Learn how to play the flute with easy-to-follow lessons.",
+        "price": 80.00,
+        "instructor": "David Green",
+        "isFeatured": false,
+        "image": "/courses/flute.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Jazz Improvisation",
+        "slug": "jazz-improvisation",
+        "description": "Explore the art of improvisation in jazz with expert guidance.",
+        "price": 110.00,
+        "instructor": "Sam Brown",
+        "isFeatured": true,
+        "image": "/courses/jazz.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Electronic Music Production",
+        "slug": "electronic-music-production",
+        "description": "Learn the basics of creating electronic music with this beginner course.",
+        "price": 95.00,
+        "instructor": "Anna Martinez",
+        "isFeatured": true,
+        "image": "/courses/electronic.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Rock Guitar Masterclass",
+        "slug": "rock-guitar-masterclass",
+        "description": "Master rock guitar techniques in this comprehensive course.",
+        "price": 130.00,
+        "instructor": "John Stone",
+        "isFeatured": false,
+        "image": "/courses/rock-guitar.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Opera Singing Techniques",
+        "slug": "opera-singing-techniques",
+        "description": "Improve your singing techniques with a focus on opera.",
+        "price": 125.00,
+        "instructor": "Laura Collins",
+        "isFeatured": true,
+        "image": "/courses/opera.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Bass Guitar Essentials",
+        "slug": "bass-guitar-essentials",
+        "description": "Get a solid foundation in bass guitar playing with this essential course.",
+        "price": 90.00,
+        "instructor": "Tom James",
+        "isFeatured": false,
+        "image": "/courses/bass-guitar.jpg"
+      }
+    ]
+  }
+  
